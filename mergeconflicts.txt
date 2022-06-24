@@ -1,2 +1,3 @@
-changes from local repo
+changes from local repe
+changes from remote repo
 without pull update
